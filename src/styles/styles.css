@@ -1,0 +1,33 @@
+section {
+    background-color: bisque;
+}
+
+header {
+    font-weight:bold;
+}
+
+li {
+    font-weight: bold;
+}
+
+p {
+    color: #333
+}
+
+
+form {
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    max-width: 60vw;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+}
+.hidden-form{
+    display: none;
+}
